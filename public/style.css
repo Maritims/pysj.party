@@ -1,0 +1,28 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 125%;
+	line-height: 1.5;
+	font-family: sans-serif;
+}
+
+body {
+	background-color: #EAEAEA;
+	color: #222222;
+}
+
+main {
+	margin: 2rem auto;
+	width: 96%;
+	max-width: 800px;
+}
